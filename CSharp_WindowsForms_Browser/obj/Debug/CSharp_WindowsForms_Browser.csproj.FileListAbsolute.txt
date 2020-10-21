@@ -1,0 +1,10 @@
+C:\Users\Philippe\Desktop\Dev\CSharp_WindowsForms_Browser\bin\Debug\CSharp_WindowsForms_Browser.exe.config
+C:\Users\Philippe\Desktop\Dev\CSharp_WindowsForms_Browser\bin\Debug\CSharp_WindowsForms_Browser.exe
+C:\Users\Philippe\Desktop\Dev\CSharp_WindowsForms_Browser\bin\Debug\CSharp_WindowsForms_Browser.pdb
+C:\Users\Philippe\Desktop\Dev\CSharp_WindowsForms_Browser\obj\Debug\CSharp_WindowsForms_Browser.csprojAssemblyReference.cache
+C:\Users\Philippe\Desktop\Dev\CSharp_WindowsForms_Browser\obj\Debug\CSharp_WindowsForms_Browser.frmMain.resources
+C:\Users\Philippe\Desktop\Dev\CSharp_WindowsForms_Browser\obj\Debug\CSharp_WindowsForms_Browser.Properties.Resources.resources
+C:\Users\Philippe\Desktop\Dev\CSharp_WindowsForms_Browser\obj\Debug\CSharp_WindowsForms_Browser.csproj.GenerateResource.cache
+C:\Users\Philippe\Desktop\Dev\CSharp_WindowsForms_Browser\obj\Debug\CSharp_WindowsForms_Browser.csproj.CoreCompileInputs.cache
+C:\Users\Philippe\Desktop\Dev\CSharp_WindowsForms_Browser\obj\Debug\CSharp_WindowsForms_Browser.exe
+C:\Users\Philippe\Desktop\Dev\CSharp_WindowsForms_Browser\obj\Debug\CSharp_WindowsForms_Browser.pdb
